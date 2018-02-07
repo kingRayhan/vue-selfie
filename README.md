@@ -1,6 +1,6 @@
-# webcam-app
+# vue-webcam-app
 
-> A Vue.js project
+# [Demo](https://kingrayhan.github.io/vue-selfie)
 
 ## Build Setup
 
